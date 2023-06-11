@@ -7,6 +7,8 @@ package algorithm.level1;
  * 
  * <재한사항>
  *  s는 길이가 1 이상, 100이하인 스트링입니다.
+ *  
+ *  https://school.programmers.co.kr/learn/courses/30/lessons/12903
  */
 public class Soluation_12903 {
 	public static void main(String[] args) {
