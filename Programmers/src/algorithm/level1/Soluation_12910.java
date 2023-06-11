@@ -15,6 +15,7 @@ import java.util.List;
  * arr은 자연수를 담은 배열입니다. 정수 i, j에 대해 i ≠ j 이면 arr[i] ≠ arr[j] 입니다. divisor는
  * 자연수입니다. array는 길이 1 이상인 배열입니다.
  *
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12910
  */
 public class Soluation_12910 {
 	public static void main(String[] args) {
